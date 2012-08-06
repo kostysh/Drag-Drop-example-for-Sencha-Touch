@@ -1,0 +1,16 @@
+.x-droppable {
+    border: #003d99 dashed;
+    opacity: 0.5;
+}
+
+.x-drop-active {
+    opacity: 1;
+}
+
+.x-drop-invalid {
+    background-color: red;
+}
+
+.x-drop-hover {
+    border: #ae0404 dashed;
+}
