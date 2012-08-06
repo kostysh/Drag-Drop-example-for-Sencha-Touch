@@ -16,6 +16,11 @@ Features:
 - Classical Ext.util.Draggable with 'revert' option
 - Experimental Droppable behavior util
 
+Comments:
+=========
+Some things inside Ext.ux.util.Droppable may seem strange to you.  
+This is because I have not enough information about the Sencha Touch architecture.  
+Maybe something can be implemented easier and better. Do not hesitate to tell me - how. 
 
 Installing:
 ===========
