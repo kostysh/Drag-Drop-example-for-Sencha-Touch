@@ -20,7 +20,7 @@ Features:
 Installing:
 ===========
 - Place src to your app folder;
-- Configure custom path for custom components: 
+- Configure path for custom components: 
 <!-- language: lang-js -->
         
         Ext.Loader.setPath({
